@@ -71,7 +71,9 @@ Graphs:->
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/dependents.PNG)
 
-![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/ds1.PNG)
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/ds1.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/ds1.jpg)
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/education.PNG)
 
