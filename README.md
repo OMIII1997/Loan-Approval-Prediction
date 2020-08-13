@@ -35,6 +35,8 @@ Graphs:->
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Pair_plot.png)
 
+![ScreenShot](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Pair_plot.png)
+
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Scatter.png)
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Null_heat_map.png)
