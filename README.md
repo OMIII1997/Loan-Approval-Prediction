@@ -35,3 +35,52 @@ Graphs:->
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Pair_plot.png)
 
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Scatter.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Null_heat_map.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Null_heat_map_1.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/applicant_inc.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/applicant_inc_norm.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/coap_inc.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/coap_inc_norm.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/loan_amt.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/loan_amt_norm.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/feature_imp.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/dt_feature.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/loan_amt_norm.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/log_feature.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/rf_feature.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/xgb_feature.png)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/data_balance.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/dependents.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/ds1.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/education.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/employed.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/gender.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/loan_status.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/married.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/property_area.PNG)
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/heatmap.png)
