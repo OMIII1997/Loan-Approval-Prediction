@@ -30,3 +30,8 @@ Maximum accuracy achieved by Random Forest of 83.88%.
 Average accuracy achieved by all classifiers is 83.11%.
 
 More improvement in terms of Data analysis , Data wrangling, Model selection will be tried to increase accuracy.
+
+Graphs:->
+
+![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/tree/master/Graphs/Pair_plot.png)
+
