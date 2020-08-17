@@ -31,7 +31,7 @@ Average accuracy achieved by all classifiers is 83.11%.
 
 More improvement in terms of Data analysis , Data wrangling, Model selection will be tried to increase accuracy.
 
-Graphs:->
+# Graphs:->
 
 ![alt text](https://github.com/OMIII1997/Loan-Approval-Prediction/blob/master/Graphs/Screenshot%20(114).png)
 
